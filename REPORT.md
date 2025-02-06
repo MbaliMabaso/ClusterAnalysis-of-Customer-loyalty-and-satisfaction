@@ -41,17 +41,19 @@ The resulting clusters were visualized using a scatter plot:
 ## Results
 The 4 identified clusters reveal the following patterns:
 1. **Cluster 1 (Red)**: Customers with high satisfaction and high loyalty. Likely the most valuable segment for retention.
-2. **Cluster 2 (Yellow)**: Customers with moderate satisfaction but mixed loyalty levels. Engagement strategies could improve loyalty here.
-3. **Cluster 3 (Cyan)**: Low loyalty and moderate satisfaction. Focused efforts are needed to understand and address dissatisfaction.
-4. **Cluster 4 (Purple)**: Customers with mixed loyalty and satisfaction levels. Strategies should address specific needs in this segment.
+2. **Cluster 2 (Green)**: Customers who are dissatisfied but still loyal. Engagement strategies could improve loyalty here.
+3. **Cluster 3 (Blue)**: Customers who are disloyal and unsatisfied. Focused efforts are needed to understand and address dissatisfaction.
+4. **Cluster 4 (Purple)**: High satisfaction low loyalty. Strategies should address specific needs in this segment.
 
 ## Recommendations
-- **Cluster-Specific Strategies**:
-  - Focus on retaining high-loyalty customers by rewarding their loyalty and addressing potential pain points.
-  - Improve satisfaction levels in clusters with moderate satisfaction to increase loyalty.
-- **Future Analysis**:
-  - Incorporate demographic and transactional data to refine segmentation.
-  - Evaluate the impact of targeted strategies using metrics like Net Promoter Score (NPS) or Customer Lifetime Value (CLV).
+**Cluster-Specific Strategies**:
+- Cluster 1 (Red)**: Customers with high satisfaction and high loyalty. Use information about these customers to try and recruit similar people who haven't heard of
+   this company.
+- Cluster 2 (Green)**: Customers who are dissatisfied but still loyal. Investigate dissatisfaction and improve satisfaction levels to increase loyalty.
+- Cluster 3 (Blue)**: Customers who are disloyal and unsatisfied. Investigate dissatisfaction and improve satisfaction levels.
+-  Cluster 4 (Purple)**: High satisfaction low loyalty. Introduce loyalty programs to keep them coming back. For example, rewards and points for buying, special discounts etc. 
+**Future Analysis**:
+- Incorporate demographic and transactional data to refine segmentation.
 
 ## Conclusion
 This analysis successfully segmented customers into 4 clusters based on loyalty and satisfaction. These insights can inform targeted engagement strategies, improving overall customer experience and business outcomes.
