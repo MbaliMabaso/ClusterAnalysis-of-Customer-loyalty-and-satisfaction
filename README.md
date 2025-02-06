@@ -24,7 +24,7 @@ This project applies **K-Means clustering** to explore patterns in customer loya
 
 ## Visualization
 The clusters were visualized using a **scatter plot**, where colors represent different clusters.
-![image_url]()
+![image_url]([)](https://github.com/MbaliMabaso/ClusterAnalysis-of-Customer-loyalty-and-satisfaction/blob/c118a0f0e123fc424f50ebf87a7c0d9a0061c64f/CustomerLoyaltyandSatisfactionClusters.png)
 
 ## How to Run the Analysis
 ```python
