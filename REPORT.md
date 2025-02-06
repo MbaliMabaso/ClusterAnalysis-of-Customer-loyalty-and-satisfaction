@@ -6,6 +6,7 @@ The goal of this analysis was to identify distinct customer segments based on th
 ## Methodology
 ### Data Preprocessing
 - **Customer Loyalty**: This variable was already standardized with a mean of 0 and standard deviation of 1. No further transformation was required.
+  ![image_url](https://github.com/MbaliMabaso/ClusterAnalysis-of-Customer-loyalty-and-satisfaction/blob/9d822a1d1979f9edb16e7bcb73504192f4897bc1/MeanAndSDofLoyalty.png)
 - **Customer Satisfaction**: Standardized using `StandardScaler` to ensure comparability with the loyalty variable.
   ![image_url](https://github.com/MbaliMabaso/ClusterAnalysis-of-Customer-loyalty-and-satisfaction/blob/37c90917655000dcb1b4e80abaa8fac5284d663f/StandardizeSatisfaction.png)
 
