@@ -14,7 +14,7 @@ The goal of this analysis was to identify distinct customer segments based on th
 ### Clustering Algorithm
 1. **K-Means Clustering**:
    - The optimal number of clusters was determined by analyzing the Within-Cluster Sum of Squares (WCSS).
-   - The WCSS values for increasing cluster counts showed a significant drop at 4 clusters (WCSS = 4.1), indicating that **4 clusters** best fit the data.
+   - The WCSS values for increasing cluster counts was 4 clusters (WCSS = 4.1), indicating that **4 clusters** best fit the data.
 2. **Cluster Formation**:
    - K-Means was implemented with `n_clusters=4`.
    - Centroids and cluster labels were computed.
