@@ -51,7 +51,8 @@ The 4 identified clusters reveal the following patterns:
    this company.
 - Cluster 2 (Green)**: Customers who are dissatisfied but still loyal. Investigate dissatisfaction and improve satisfaction levels to increase loyalty.
 - Cluster 3 (Blue)**: Customers who are disloyal and unsatisfied. Investigate dissatisfaction and improve satisfaction levels.
--  Cluster 4 (Purple)**: High satisfaction low loyalty. Introduce loyalty programs to keep them coming back. For example, rewards and points for buying, special discounts etc. 
+-  Cluster 4 (Purple)**: High satisfaction low loyalty. Introduce loyalty programs to keep them coming back. For example, rewards and points for buying, special discounts etc.
+- 
 **Future Analysis**:
 - Incorporate demographic and transactional data to refine segmentation.
 
